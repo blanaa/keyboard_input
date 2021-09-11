@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="keyboard_input" name="keyboard_input" type="keyboard_input" output="screen"/>
+</launch>
